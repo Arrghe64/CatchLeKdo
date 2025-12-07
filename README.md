@@ -6,13 +6,13 @@ Le principe est simple :
 
 🕒 Tu as 30 secondes
 
-🎁 Des images apparaissent en lignes de 3
+🎁 Des images apparaissent en lignes
 
-👉 Ton objectif : cliquer sur un maximum de cadeaux
+👉 Ton objectif : cliquer sur un maximum de cadeaux sans te tromper !
 
-⏸️ Un bouton pause permet d’arrêter / reprendre le chrono
+⏸️ Le bouton pause permet d’arrêter / reprendre le chrono
 
-💥 Le score final s’affiche à la fin de la partie
+💥 Le score final s’affiche à la fin de la partie et tant que tu joues il garde ton meilleur score 😉
 
 C’est un mini-jeu pensé pour les fêtes, parfait sur mobile.
 
